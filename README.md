@@ -4,20 +4,11 @@ This repository contains the code associated with our research paper titled "She
 
 ## Table of Contents
 
-- [Create_NIH_dataset.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/Create_NIH_dataset.ipynb)
-- [Alpha_Relevance_notebook.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/Alpha_Relevance_notebook.ipynb)
-- [plot_similarities.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/plot_similarities.ipynb)
-
-## Create_NIH_dataset.ipynb
-
-This Jupyter Notebook provides a step-by-step guide on how to recreate the NIH dataset used in the paper. The dataset is an essential component of the research, and this notebook ensures that anyone can reproduce it from scratch.
-
-## Alpha_Relevance_notebook.ipynb
-
-In this Jupyter Notebook, you will find the code used to create similarity CSVs. The alpha relevance calculations are crucial for the analysis conducted in the paper. This notebook helps users understand the process and allows them to generate their similarity CSVs.
-
-## plot_similarities.ipynb
-
+- [Create_NIH_dataset.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/Create_NIH_dataset.ipynb) <br>
+  This Jupyter Notebook provides a step-by-step guide on how to recreate the NIH dataset used in the paper. The dataset is an essential component of the research, and this notebook ensures that anyone can reproduce it from scratch. <br>
+- [Alpha_Relevance_notebook.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/Alpha_Relevance_notebook.ipynb) <br>
+In this Jupyter Notebook, you will find the code used to create similarity CSVs. The alpha relevance calculations are crucial for the analysis conducted in the paper. This notebook helps users understand the process and allows them to generate their similarity CSVs. <br>
+- [plot_similarities.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/plot_similarities.ipynb) <br>
 The plot_similarities.ipynb notebook contains code to create the plots presented in the paper. These visualizations are essential for understanding the results and conclusions drawn from the analysis. This notebook provides a clear representation of the data and enables users to reproduce the plots.
 
 ## Prerequisites
