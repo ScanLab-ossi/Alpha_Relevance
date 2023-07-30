@@ -25,10 +25,9 @@ Before running the notebooks, please make sure you have the following packages i
 These packages are necessary to ensure the code runs smoothly and reproduces the results presented in the paper.
 
 ## Data and Usage
-
 The final processed grant calls and winning applications can be found [here](https://drive.google.com/drive/folders/18CATV14JaZXQDRJq2oKcBE90-vr_QibN?usp=sharing).<br>
-As we dont hold the legal rights on the winning PIs publications dataset, we provide the code how to recreate it quite easily.
-Go to: <u>Get publications based on scopus ID of extracted PIs</u> section in Create_NIH_dataset.ipynb , load ```winning_submission.csv``` and execute the remaining cells
+As we don't hold the legal rights to the winning PIs' publications dataset, we provide the code to recreate it easily. Go to the <u>Get publications based on Scopus ID of extracted PIs</u> section in Create_NIH_dataset.ipynb, load `winning_submission.csv`, and execute the remaining cells.
+
 
 ## Recommended Citation
 If you find this work helpful, please make sure to cite:
@@ -38,6 +37,6 @@ DOI: 10.22191/nejcs/vol5/iss1/7/
 Available at: https://orb.binghamton.edu/nejcs/vol5/iss1/7
 ```
 ## Contact
-For any inquiries or collaboration opportunities, feel free to reach out to us:
+For any inquiries or collaboration opportunities, feel free to reach out to us:<br>
 [Gil Zeevi](gzeevi25@gmail.com) <br>
 [Dr Osnat Mokryn](ossimo@gmail.com)<br>
