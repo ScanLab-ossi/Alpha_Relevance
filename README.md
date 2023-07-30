@@ -4,9 +4,9 @@ This repository contains the code associated with our research paper titled "She
 
 ## Table of Contents
 
-- [Create_NIH_dataset.ipynb](#create-nih-dataset)
-- [Alpha_Relevance_notebook.ipynb](#alpha-relevance-notebook)
-- [plot_similarities.ipynb](#plot-similarities)
+- [Create_NIH_dataset.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/Create_NIH_dataset.ipynb)
+- [Alpha_Relevance_notebook.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/Alpha_Relevance_notebook.ipynb)
+- [plot_similarities.ipynb](https://github.com/gilzeevi25/Alpha_Relevance/blob/main/plot_similarities.ipynb)
 
 ## Create_NIH_dataset.ipynb
 
@@ -40,12 +40,13 @@ As we dont hold the legal rights on the winning PIs publications dataset, we pro
 Go to: <u>Get publications based on scopus ID of extracted PIs</u> section in Create_NIH_dataset.ipynb , load ```winning_submission.csv``` and execute the remaining cells
 
 ## Recommended Citation
-If you find this work helpful, please make sure to cite us:
+If you find this work helpful, please make sure to cite:
 ```
 Zeevi, Gil and Mokryn, Osnat (2023) "She is an Expert in this Research Field: The Signal of Recent Publications' Relevance," Northeast Journal of Complex Systems (NEJCS): Vol. 5 : No. 1 , Article 7.
 DOI: 10.22191/nejcs/vol5/iss1/7/
 Available at: https://orb.binghamton.edu/nejcs/vol5/iss1/7
 ```
 ## Contact
+For any inquiries or collaboration opportunities, feel free to reach out to us:
 [Gil Zeevi](gzeevi25@gmail.com) <br>
 [Dr Osnat Mokryn](ossimo@gmail.com)<br>
